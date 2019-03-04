@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 {\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
@@ -46,3 +47,6 @@
 \b ensemble.py
 \b0  code to create final submission file which is ensemble of resnet-50 and inception-V3.\uc0\u8232 \
 }
+=======
+
+>>>>>>> e03acdebba683021f598e4fccc54e084f38ce4f1
