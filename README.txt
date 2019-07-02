@@ -1,4 +1,4 @@
-Approach
+## Approach
 1. Given the very small number of images (5k only) , I split the data set into 80% - 20%
 ratio. The first part with 80% images (~4000 images) along with augmented images was
 used for training and rest 20% (~1000 images) was used for validation.
